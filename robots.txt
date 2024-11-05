@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exebiogo.github.io/IEM/sitemap_index.txt
+Sitemap: https://exebiogo.github.io/MpK/sitemap_index.txt
+Sitemap: https://exebiogo.github.io/cOh/sitemap_index.txt
+Sitemap: https://exebiogo.github.io/yEU/sitemap_index.txt
